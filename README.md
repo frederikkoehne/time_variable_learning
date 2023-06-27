@@ -20,7 +20,7 @@ The `.json` files generated provide information about the respective training ru
  - `"clean_losses"`: Only the MSE part of the train loss. Differs from `"losses"` iff $\ell^1$ or time horizon regularization is used.
  - `"lr"`, `"n_epochs"`, `"tau_is_trainable"`, `"l1_reg"`, `"l2_reg"`, `"tau_sum_factor"`, `"T"`, `"internal_dimension"`, `"number_of_tau_blocks"`, `"adaptive_pruning"`, `"dependent_last_tau"`, `"batch_size"`: Metadata about the experiment.
 
-If you're interested in use the network architectures in your own research, you achieve this by either copying the `modules/tau_modules.py` file to your working directory or by installing it to your virtual Python using 
+If you're interested in using the network architectures in your own research, you achieve this by either copying the `modules/tau_modules.py` file to your working directory or by installing it to your virtual Python using 
 
 `python setup.py install`
 
