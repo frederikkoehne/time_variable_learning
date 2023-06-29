@@ -1,6 +1,6 @@
 # An implementation of time variable learning architectures
 
-This repository provides a PyTorch Implementation of time - variable neural network architectures, as presented in https://arxiv.org/abs/2204.08528. Furthermore, it contains an example, how these architectures can be used. The code given here as an example was the code used for the numerical experiments for the Paper (Link to be set). 
+This repository provides a PyTorch Implementation of time - variable neural network architectures, as presented in https://arxiv.org/abs/2204.08528. Furthermore, it contains an example, how these architectures can be used. The code given here as an example was the code used for the numerical experiments for the Paper https://arxiv.org/abs/2306.16111. 
 
 ## Installation and Usage
 
